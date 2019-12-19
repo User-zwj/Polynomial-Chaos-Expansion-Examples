@@ -2,18 +2,4 @@
 
 Recreate plots in Paper 'THE WIENER–ASKEY POLYNOMIAL CHAOS FOR STOCHASTIC DIFFERENTIAL EQUATIONS'
 
-I will use several notebooks to demonstrate how to recreate each examples in this paper. The format is '.ipynb'.
-
-Later I will change all the notebooks to '.py' format.
-
-(A test if other people can merge changes without pull request) - Allow merge commits
-
-(Trial 2) - Restrict editing to collaborators only
-
-(Trial 3) - Branches setting
-
-(Trial 4) - After fork
-
-(Tial 5) - Allow merge commits
-
-(Trial 6) - use terminal to set up
+I will use several notebooks to demonstrate how to recreate each plot in each examples in this paper. The format is '.ipynb'.
