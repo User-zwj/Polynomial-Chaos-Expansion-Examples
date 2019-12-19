@@ -9,3 +9,5 @@ Later I will change all the notebooks to '.py' format.
 (A test if other people can merge changes without pull request) - Allow merge commits
 
 (Trial 2) - Restrict editing to collaborators only
+
+(Trial 3) - Branches setting
