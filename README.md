@@ -11,3 +11,5 @@ Later I will change all the notebooks to '.py' format.
 (Trial 2) - Restrict editing to collaborators only
 
 (Trial 3) - Branches setting
+
+(Trial 4) - After fork
