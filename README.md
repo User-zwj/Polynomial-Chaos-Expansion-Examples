@@ -15,3 +15,5 @@ Later I will change all the notebooks to '.py' format.
 (Trial 4) - After fork
 
 (Tial 5) - Allow merge commits
+
+(Trial 6) - use terminal to set up
