@@ -17,3 +17,5 @@ Later I will change all the notebooks to '.py' format.
 (Tial 5) - Allow merge commits
 
 (Trial 6) - use terminal to set up
+
+(Trial 7) - Jing
